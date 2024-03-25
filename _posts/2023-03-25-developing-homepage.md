@@ -1,8 +1,8 @@
 ---
 layout: post
 title: "developing my page"
-date: 2024-03-25 17:32:00 +0000
-categories: test developing
+date:   2024-03-25 20:43:54 +0800
+categories: jekyll update
 ---
 
 Hi
