@@ -1,0 +1,56 @@
+- year: "current"
+  events:
+    - description: event_1
+      date: "2024-04-01"
+      figure: 
+      figure_caption: 
+- year: "2024"
+  events:
+    - description: event_1
+      date: "2023-10-01"
+      figure: 
+      figure_caption: 
+    - description: event_1
+      date: "2023-08-01"
+      figure: http://placehold.it/400x300
+      figure_caption: Lorem ipsum dolor sit amet.
+    - description: event_1
+      date: "2023-04-01"
+      figure: 
+      figure_caption: 
+- year: "2023"
+  events:
+    - description: event_1
+      date: "2022-10-01"
+      figure: 
+      figure_caption: 
+    - description: event_1
+      date: "2022-08-01"
+      figure: 
+      figure_caption: 
+    - description: event_1
+      date: "2022-04-01"
+      figure: 
+      figure_caption: 
+- year: "2022"
+  events:
+    - description: event_1
+      date: "2021-10-01"
+      figure: 
+      figure_caption: 
+    - description: event_1
+      date: "2021-08-01"
+      figure: http://placehold.it/400x300
+      figure_caption: Lorem ipsum dolor sit amet.
+    - description: event_1
+      date: "2021-04-01"
+      figure: 
+      figure_caption: 
+- year: "2021"
+  events:
+    - description: Start my journey at Southeat University (SEU)!
+      date: "2020-09"
+      figure: 
+      figure_caption: 
+- year: "2020"
+  events:

@@ -22,19 +22,26 @@ title: Xiaoji's Page
 
 name: Xiaoji Zheng
 email: student.xiaoji@qq.com
-description: >- # this means to ignore newlines until "baseurl:"
+description: > # this means to ignore newlines until "baseurl:"
   none
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "http://127.0.0.1:4000" # the base hostname & protocol for your site, e.g. http://example.com
+
 # twitter_username: jekyllrb
-github_username:  SEU-zxj
-linkedin_username: xiaoji-zheng-325b4b216
+# github_username:  SEU-zxj
+# linkedin_username: xiaoji-zheng-325b4b216
 
 # Build settings
-theme: minima
+##########if use themes###########
+# theme: minima
 # theme: jekyll-theme-minimal
-plugins:
-  - jekyll-feed
+# plugins:
+#   - jekyll-feed
+##################################
+sass:
+  sass_dir: _sass
+
+include: ['_pages']
 
 markdown: GFM
 

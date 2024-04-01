@@ -1,0 +1,12 @@
+<footer>
+    <p>By Xiaoji Zheng</p>
+    <div>
+        {% for item in site.data.social_networks %}
+        <div>
+            <a href="{{ item.link }}" target="_Blank">
+                <img src="{{ item.image }}">
+            </a>
+        </div>
+        {% endfor %}
+    </div>
+</footer>

@@ -1,0 +1,15 @@
+- name: email
+  image: /assets/images/social_networks/email.svg
+  link: mailto:student.xiaoji@gmail.com
+
+- name: github
+  image: /assets/images/social_networks/github.svg
+  link: https://github.com/SEU-zxj
+
+- name: linkedin
+  image: /assets/images/social_networks/linkedin.svg
+  link: https://www.linkedin.com/in/xiaojizheng/
+
+- name: 知乎
+  image: /assets/images/social_networks/zhihu.svg
+  link: https://www.zhihu.com/people/dong-dong-dong-49-89-76
