@@ -1,56 +1,67 @@
 - year: "current"
   events:
-    - description: event_1
-      date: "2024-04-01"
+    - description: Start the 0th year of my master's degree at Institution for AI Industry Research, Tsinghua University.
+      date: "2024-03"
       figure: 
       figure_caption: 
+      icon: /assets/images/icons/AIR.svg
+    - description: Finish my intern at HUAWEI, I will miss my nice mentor and colleagues😥 <p>[<a href="https://zhuanlan.zhihu.com/p/688752857">blog</a>]</p>
+      date: "2024-03-06"
+      figure: /assets/images/experiences/huawei_colleagues.jpg
+      figure_caption: my mentor and colleagues at HUAWEI
+      icon:
 - year: "2024"
   events:
-    - description: event_1
-      date: "2023-10-01"
+    - description: I got the Principles's Scholarship✌ <p> [<a href="https://www.bilibili.com/video/BV1Zw411Y7Fx/?share_source=copy_web&vd_source=f689f2eaa027dab18ad7561e30d0f644">vlog</a>] <p>
+      date: "2023-10"
+      figure:
+      figure_caption:
+      icon:
+    - description: Start my intern at HUAWEI as a Software Develop Engineer (SDE)!
+      date: "2023-09"
+      figure:
+      figure_caption:
+      icon: /assets/images/icons/HUAWEI.svg
+    - description: Apply master's degree! <p>[<a href="https://www.bilibili.com/video/BV1694y1E7WR/?share_source=copy_web&vd_source=f689f2eaa027dab18ad7561e30d0f644">vlog</a>] [<a href="https://zhuanlan.zhihu.com/p/659027931">blog</a>] </p>
+      date: "2023-07~2023-09"
       figure: 
+      figure_caption:
+      icon:
+    - description: One short paper was accepted by ACM SIGCHI Designing Interaction Systems 2023 Companion!
+      date: "2023-07"
+      figure:
       figure_caption: 
-    - description: event_1
-      date: "2023-08-01"
-      figure: http://placehold.it/400x300
-      figure_caption: Lorem ipsum dolor sit amet.
-    - description: event_1
-      date: "2023-04-01"
-      figure: 
-      figure_caption: 
+      icon:
+    - description: Our SRTP project was selected as outstanding project!
+      date: "2023-05"
+      figure:
+      figure_caption:
+      icon:
 - year: "2023"
   events:
-    - description: event_1
-      date: "2022-10-01"
+    - description: I got the National Scholarship✌ <p> [<a href="https://www.bilibili.com/video/BV1G94y1Y7aE/?share_source=copy_web&vd_source=f689f2eaa027dab18ad7561e30d0f644">vlog</a>] </p>
+      date: "2022-10"
       figure: 
       figure_caption: 
-    - description: event_1
-      date: "2022-08-01"
+      icon:
+    - description: <p>Junior year begin!</p>
+      date: "2022-09"
       figure: 
       figure_caption: 
-    - description: event_1
-      date: "2022-04-01"
-      figure: 
-      figure_caption: 
+      icon:
 - year: "2022"
   events:
-    - description: event_1
-      date: "2021-10-01"
-      figure: 
-      figure_caption: 
-    - description: event_1
-      date: "2021-08-01"
-      figure: http://placehold.it/400x300
-      figure_caption: Lorem ipsum dolor sit amet.
-    - description: event_1
-      date: "2021-04-01"
-      figure: 
-      figure_caption: 
+    - description: <p>Sophomore year begin!</p> I start a Student Research Training Program (SRTP) with my friends. This project trying to utilize Virtual Reality (VR) to relieve people's social anxiety, which is serious during COVID-19.
+      date: "2021-09"
+      figure: /assets/images/experiences/srtp_friends.jpg
+      figure_caption: members of this project
+      icon:
 - year: "2021"
   events:
     - description: Start my journey at Southeat University (SEU)!
       date: "2020-09"
       figure: 
       figure_caption: 
+      icon: /assets/images/icons/SEU.svg
 - year: "2020"
   events:

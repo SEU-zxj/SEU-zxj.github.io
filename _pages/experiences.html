@@ -19,6 +19,9 @@ This is the experiences page
         {% for event_item in year_item.events %}
             <li class="day">
                 <div class="events">
+                    {% if event_item.icon %}
+                        <img src="{{ event_item.icon }}" alt="icon" class="icon">
+                    {% endif %}
                     <p>{{ event_item.description }}</p>
                     {% if event_item.figure %}
                     <div class="day__img">
