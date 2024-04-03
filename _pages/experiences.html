@@ -23,6 +23,17 @@ This is the experiences page
                         <img src="{{ event_item.icon }}" alt="icon" class="icon">
                     {% endif %}
                     <p>{{ event_item.description }}</p>
+                    {% if event_item.vlog %}
+                        <p>
+                            {{ event_item.vlog }}
+                        </p>
+                    {% endif %}
+
+                    {% if event_item.blog %}
+                        <p>
+                            {{ event_item.blog }}
+                        </p>
+                    {% endif %}
                     {% if event_item.figure %}
                     <div class="day__img">
                         <img src="{{ event_item.figure }}" alt="" />
