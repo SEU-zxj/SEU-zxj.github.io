@@ -1,5 +1,10 @@
 - year: "current"
   events:
+    - description: Graduated from Southeast University (SEU)
+      date: "2024-06"
+      icon: /assets/images/icons/SEU.svg
+      figure: /assets/images/experiences/graduated_from_seu_2.jpg
+      figure_caption: memory of SEU
     - description: Start the 0th year of my master's degree at Institution for AI Industry Research, Tsinghua University.
       date: "2024-03"
       icon: /assets/images/icons/AIR.svg

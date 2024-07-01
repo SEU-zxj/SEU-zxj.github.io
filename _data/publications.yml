@@ -2,12 +2,12 @@
   author_front: 
   me: "Xiaoji Zheng"
   author_behind: ", Lixiu Wu, Zhijie Yan, Yuanrong Tang, Hao Zhao, Chen Zhong, Bokui Chen, Jiangtao Gong*"
-  where: "Arxiv"
+  where: "IROS 2024"
   figure: /assets/images/projects/LLM-augmented-MTR.png
-  state: Under Review
+  state: Accept
   what: We first teach Large Language Model (GPT4-V) to understand Bird's Eye View like transportation context maps and output context information (intention, affordance, and scenario). Then, these context information will integrated into motion prediction pipeline to assists motion prediction.
-  website_link: 
-  paper_link: https://dl.acm.org/doi/abs/10.1145/3563703.3596636
+  website_link: https://seu-zxj.github.io/LLM-Augmented-MTR/
+  paper_link: https://arxiv.org/abs/2403.11057
   code_link: https://github.com/SEU-zxj/LLM-Augmented-MTR
 
 - title: "Extended VR: Exploring the Integration of VR Experiences and Real-world Engagement"
