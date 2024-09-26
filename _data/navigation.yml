@@ -8,5 +8,6 @@
   link: /publications
 - name: Blog
   link: /blog
-- name: CV
-  link: /cv
+# its to ackward to show my CV...
+# - name: CV
+#   link: /cv

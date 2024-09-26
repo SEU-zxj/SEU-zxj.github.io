@@ -13,3 +13,7 @@
 - name: 知乎
   image: /assets/images/social_networks/zhihu.svg
   link: https://www.zhihu.com/people/dong-dong-dong-49-89-76
+
+- name: Google Scholar
+  image: /assets/images/social_networks/google_scholar.svg
+  link: https://scholar.google.com/citations?user=l0RRbygAAAAJ
