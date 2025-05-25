@@ -2,6 +2,10 @@
   image: /assets/images/social_networks/email.svg
   link: mailto:student.xiaoji@gmail.com
 
+- name: resume
+  image: /assets/images/social_networks/CV.svg
+  link: /assets/cv/CV-2025-05-25.pdf
+
 - name: github
   image: /assets/images/social_networks/github.svg
   link: https://github.com/SEU-zxj
