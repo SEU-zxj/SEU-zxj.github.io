@@ -1,5 +1,10 @@
 - year: "current"
   events:
+    - description: Begin my new journey at SIGS, Tsinghua University!
+      date: "2024-09"
+      icon: /assets/images/icons/THU.svg
+      figure: /assets/images/experiences/cometo_sigs.png
+      figure_caption: cute cat at SIGS 😍😺
     - description: Graduated from Southeast University (SEU)
       date: "2024-06"
       icon: /assets/images/icons/SEU.svg

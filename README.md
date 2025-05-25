@@ -1,0 +1,1 @@
+tutorial of jekyll: https://jekyllrb.com/docs/
