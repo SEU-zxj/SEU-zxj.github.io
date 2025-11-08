@@ -19,7 +19,7 @@
   figure: /assets/images/projects/embodied-cognitive-ad.jpg
   state: Accept
   what: We collect expert/novide drivers' <EEG, video> pair data, 1) align the EEG encoder and perception encoder via contrastive learning; 2) enhanced end-to-end AD models via integrating the cognition-aligned perception encoder.
-  paper_link: https://neurips.cc/virtual/2025/poster/120325
+  paper_link: https://arxiv.org/abs/2511.01334
 
 - title: "Large Language Models Powered Context-aware Motion Prediction"
   author_front: 
