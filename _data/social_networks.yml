@@ -4,11 +4,11 @@
 
 - name: resume_zh
   image: /assets/images/social_networks/CV_zh.svg
-  link: /assets/cv/resume_zh-2025-11-08.pdf
+  link: /assets/cv/resume_zh-2025-12-29.pdf
 
 - name: resume_en
   image: /assets/images/social_networks/CV_en.svg
-  link: /assets/cv/resume_en-2025-11-08.pdf
+  link: /assets/cv/resume_en-2025-12-29.pdf
 
 - name: github
   image: /assets/images/social_networks/github.svg
